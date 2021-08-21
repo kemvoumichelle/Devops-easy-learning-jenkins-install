@@ -1,14 +1,8 @@
-#! /bin/bash #dsaf dwlgfmwdlgvfwmdgmrgmwdreg
-p;dwwde
+vdsmv dsv dcs.v nd;ak v , ddv/"Dvd\
 
-# This script will install java and jenkins
- echo "Checking the operating system"
- OS=$(cat /etc/os-release |grep PRETTY_NAME | awk -F= '{print$2}' | awk -F '"' '{print$2}' |awk '{print$1}')
-
-echo 'checking if jenkins is installed'
-ls /var/lib |grep jenkins
-if 
-[[ ${?} -eq 0 ]]
+dxac;kvndk;pvnv
+dcsv /,ck;vl ncx;volkda
+dxakc nvdxlcb vdsuc v
 then 
     echo "Jenkins is install"
     exit 1
