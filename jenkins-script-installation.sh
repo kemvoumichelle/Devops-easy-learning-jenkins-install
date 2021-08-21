@@ -1,4 +1,5 @@
-#! /bin/bash
+#! /bin/bash #dsaf dwlgfmwdlgvfwmdgmrgmwdreg
+p;dwwde
 
 # This script will install java and jenkins
  echo "Checking the operating system"
